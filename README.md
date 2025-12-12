@@ -1,9 +1,9 @@
 # Tonal Semantics: Computational Tonal Analysis
 
-## Research Scope
+## Scope
 **Tonal Semantics** investigates the historical formation and evolution of the Western tonal system using interdisciplinary approaches from Artificial Intelligence, Music Informatics, and Historical Musicology. The project models the transition from modal polyphony to functional tonality and its subsequent expansion, covering a broad historical range from the 13th to the 21st century.
 
-## Core Research Goals
+## Goals
 1.  **Multimodal Corpus Development**: Curating and encoding a substantial dataset of scores spanning Medieval to Contemporary eras.
 2.  **Cognitive & Theoretical Agents**: Designing autonomous agents capable of learning and analyzing harmonic syntax and contrapuntal rules across different stylistic periods.
 3.  **Neural Music Modeling**: Utilizing state-of-the-art architectures (Transformers, LLMs) to capture long-term dependencies and generative grammar in symbolic music.
