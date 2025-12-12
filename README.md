@@ -1,7 +1,7 @@
-# Tonesemantics: Computational Analysis of Tonal Emergence
+# Tonal Semantics: Computational Tonal Analysis
 
 ## Research Scope
-**Tonesemantics** investigates the historical formation and evolution of the Western tonal system using interdisciplinary approaches from Artificial Intelligence, Music Informatics, and Historical Musicology. The project models the transition from modal polyphony to functional tonality and its subsequent expansion, covering a broad historical range from the 13th to the 21st century.
+**Tonal Semantics** investigates the historical formation and evolution of the Western tonal system using interdisciplinary approaches from Artificial Intelligence, Music Informatics, and Historical Musicology. The project models the transition from modal polyphony to functional tonality and its subsequent expansion, covering a broad historical range from the 13th to the 21st century.
 
 ## Core Research Goals
 1.  **Multimodal Corpus Development**: Curating and encoding a substantial dataset of scores spanning Medieval to Contemporary eras.
