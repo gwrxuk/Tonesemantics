@@ -1,0 +1,4 @@
+File: sample_01_c_major.mid
+Key: C major
+Progression: I -> IV -> V -> I -> I
+----------------------------------------

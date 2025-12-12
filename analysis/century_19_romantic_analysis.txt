@@ -1,0 +1,4 @@
+File: century_19_romantic.mid
+Key: C major
+Progression: I -> #ib3 -> ii -> v#8 -> i5
+----------------------------------------

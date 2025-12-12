@@ -1,0 +1,4 @@
+File: century_17_baroque.mid
+Key: A minor
+Progression: i -> iv -> bVII -> III
+----------------------------------------

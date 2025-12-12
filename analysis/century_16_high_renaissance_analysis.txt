@@ -1,0 +1,4 @@
+File: century_16_high_renaissance.mid
+Key: A minor
+Progression: iii -> iv -> v -> i4 -> ii6 -> iii
+----------------------------------------

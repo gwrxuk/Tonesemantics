@@ -1,0 +1,4 @@
+File: century_20_modern.mid
+Key: E- minor
+Progression: VI#6 -> VII#6 -> #I6 -> v+#5 -> vi+##5 -> V6
+----------------------------------------

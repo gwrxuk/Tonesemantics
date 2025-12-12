@@ -1,0 +1,4 @@
+File: century_18_classical.mid
+Key: C major
+Progression: I -> IV -> i4 -> V7 -> I
+----------------------------------------

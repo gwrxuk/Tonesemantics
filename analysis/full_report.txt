@@ -1,0 +1,56 @@
+File: century_13_medieval.mid
+Key: D minor
+Progression: iv5 -> v5 -> bvi5 -> iv5
+----------------------------------------
+File: century_14_ars_nova.mid
+Key: D major
+Progression: vb3 -> IV -> v2 -> I6
+----------------------------------------
+File: century_15_renaissance.mid
+Key: A minor
+Progression: i -> bII -> III -> i
+----------------------------------------
+File: century_16_high_renaissance.mid
+Key: A minor
+Progression: iii -> iv -> v -> i4 -> ii6 -> iii
+----------------------------------------
+File: century_17_baroque.mid
+Key: A minor
+Progression: i -> iv -> bVII -> III
+----------------------------------------
+File: century_18_classical.mid
+Key: C major
+Progression: I -> IV -> i4 -> V7 -> I
+----------------------------------------
+File: century_19_romantic.mid
+Key: C major
+Progression: I -> #ib3 -> ii -> v#8 -> i5
+----------------------------------------
+File: century_20_modern.mid
+Key: E- minor
+Progression: VI#6 -> VII#6 -> #I6 -> v+#5 -> vi+##5 -> V6
+----------------------------------------
+File: century_21_contemporary.mid
+Key: F major
+Progression: I532 -> iii53#2 -> V532 -> I532
+----------------------------------------
+File: sample_01_c_major.mid
+Key: C major
+Progression: I -> IV -> V -> I -> I
+----------------------------------------
+File: sample_02_a_minor.mid
+Key: A minor
+Progression: i -> iv -> V75#3 -> i -> i
+----------------------------------------
+File: sample_03_g_major.mid
+Key: G major
+Progression: I -> vi -> ii -> V -> I
+----------------------------------------
+File: sample_04_f_major.mid
+Key: F major
+Progression: I -> V65 -> I -> IV -> I
+----------------------------------------
+File: sample_05_d_minor.mid
+Key: D minor
+Progression: i -> bVI -> iio -> V -> i
+----------------------------------------

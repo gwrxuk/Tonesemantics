@@ -1,0 +1,4 @@
+File: century_13_medieval.mid
+Key: D minor
+Progression: iv5 -> v5 -> bvi5 -> iv5
+----------------------------------------

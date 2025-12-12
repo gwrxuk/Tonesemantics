@@ -1,0 +1,13 @@
+{
+    "filename": "sample_03_g_major.mid",
+    "detected_key": "G major",
+    "confidence": 0.8549640867097317,
+    "chord_count": 5,
+    "roman_numerals": [
+        "I",
+        "vi",
+        "ii",
+        "V",
+        "I"
+    ]
+}

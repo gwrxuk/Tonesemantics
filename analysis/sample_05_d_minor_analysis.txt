@@ -1,0 +1,4 @@
+File: sample_05_d_minor.mid
+Key: D minor
+Progression: i -> bVI -> iio -> V -> i
+----------------------------------------

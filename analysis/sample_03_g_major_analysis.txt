@@ -1,0 +1,4 @@
+File: sample_03_g_major.mid
+Key: G major
+Progression: I -> vi -> ii -> V -> I
+----------------------------------------

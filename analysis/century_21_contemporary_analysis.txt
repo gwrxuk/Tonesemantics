@@ -1,0 +1,4 @@
+File: century_21_contemporary.mid
+Key: F major
+Progression: I532 -> iii53#2 -> V532 -> I532
+----------------------------------------

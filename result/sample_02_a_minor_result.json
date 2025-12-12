@@ -1,0 +1,13 @@
+{
+    "filename": "sample_02_a_minor.mid",
+    "detected_key": "A minor",
+    "confidence": 0.8042930680012306,
+    "chord_count": 5,
+    "roman_numerals": [
+        "i",
+        "iv",
+        "V75#3",
+        "i",
+        "i"
+    ]
+}

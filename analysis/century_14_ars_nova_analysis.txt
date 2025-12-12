@@ -1,0 +1,4 @@
+File: century_14_ars_nova.mid
+Key: D major
+Progression: vb3 -> IV -> v2 -> I6
+----------------------------------------

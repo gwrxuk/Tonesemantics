@@ -1,0 +1,13 @@
+{
+    "filename": "sample_01_c_major.mid",
+    "detected_key": "C major",
+    "confidence": 0.803214184537329,
+    "chord_count": 5,
+    "roman_numerals": [
+        "I",
+        "IV",
+        "V",
+        "I",
+        "I"
+    ]
+}

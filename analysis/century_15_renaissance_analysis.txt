@@ -1,0 +1,4 @@
+File: century_15_renaissance.mid
+Key: A minor
+Progression: i -> bII -> III -> i
+----------------------------------------

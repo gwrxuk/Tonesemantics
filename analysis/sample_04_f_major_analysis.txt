@@ -1,0 +1,4 @@
+File: sample_04_f_major.mid
+Key: F major
+Progression: I -> V65 -> I -> IV -> I
+----------------------------------------
